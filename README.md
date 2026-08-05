@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi 👋, I'm Vaibhav Jadhav
 </h1>
-
+<p align="center">
+  <img src="https://drive.google.com/file/d/1XrC5J5-ts0qtks99sUHBqVoW4TinDbOF/view?usp=sharing" width="180" style="border-radius:50%;" alt="Vaibhav Jadhav"/>
+</p>
 <h3 align="center">
 Software Developer | Java | MERN Stack | AWS Cloud | React Native
 </h3>
