@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Jadhav</h1>
 
 <p align="center">
-  <img src="vaibhav.jpeg" alt="Vaibhav Jadhav" width="180" height="180" style="border-radius: 50%; border: 3px solid #00C2FF; object-fit: cover;" />
+ 
 </p>
 
-<h3 align="center">Software Developer | Full Stack Engineer | Cloud Enthusiast</h3>
+<h3 align="center">|Full Stack Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+AWS+Cloud;React+Native+Developer;Hackathon+Winner;Building+Scalable+Solutions" />
@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Computer Science student passionate about crafting robust software solutions. With expertise spanning Java, MERN Stack, and AWS Cloud, I enjoy building applications that create meaningful impact.
+I'm a final-year Computer Science student passionate about crafting robust software solutions. With expertise spanning Java, MERN Stack, and Devops & AWS Cloud, I enjoy building applications that create meaningful impact.
 
-- 🎓 **Education:** B.E. Computer Science (Final Year)
+- 🎓 **Education:** B.Tech Computer Science (Final Year)
 - 💼 **Core Competencies:** Full Stack Development | Cloud Architecture | Mobile Development
 - 🌱 **Currently Exploring:** AWS Cloud, DevOps, System Design
-- 🏆 **Recognitions:** Smart India Hackathon Winner | National Startup Hackathon Winner
+- 🏆 **Recognitions:** Smart India Hackathon Winner- 2025 | National Startup Hackathon Winner - 2025 | Avishkar competition medalist - 2025
 - 📫 **Reach Me:** [vaibhavjadhav2908@gmail.com](mailto:vaibhavjadhav2908@gmail.com)
 
 ---
@@ -79,7 +79,7 @@ I'm a final-year Computer Science student passionate about crafting robust softw
 ### 🌱 VrikshMitra
 > Gamified environmental education platform
 
-- **Tech Stack:** React Native, Node.js, MongoDB
+- **Tech Stack:** Mern Stack, React Native, Node.js, MongoDB 
 - **Impact:** Promoting environmental awareness through interactive learning
 
 ### ⚡ FixFast
