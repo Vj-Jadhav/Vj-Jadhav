@@ -2,7 +2,7 @@
 Hi 👋, I'm Vaibhav Jadhav
 </h1>
 <p align="center">
-  <img src="vaibhav.jpeg" width="180" style="border-radius:50%;" alt="Vaibhav Jadhav"/>
+  <img src="vaibhav.jpeg" width="180" style="border-radius:50%;">
 </p>
 <h3 align="center">
 Software Developer | Java | MERN Stack | AWS Cloud | React Native
