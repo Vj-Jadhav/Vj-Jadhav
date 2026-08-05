@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Vj-Jadhav/Vj-Jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vaibhav Jadhav
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vaibhav Jadhav
 
 <h3 align="center">🚀 Final Year Computer Engineering Student | Aspiring Software Engineer | AWS & Full Stack Learner</h3>
 
@@ -159,9 +150,3 @@ Here are some ideas to get you started:
 ### ⭐ Thanks for visiting my profile! ⭐
 
 </p>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
