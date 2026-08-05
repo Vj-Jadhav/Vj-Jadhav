@@ -20,7 +20,7 @@ I'm a final-year Computer Science student passionate about crafting robust softw
 - 💼 **Core Competencies:** Full Stack Development | Cloud Architecture | Mobile Development
 - 🌱 **Currently Exploring:** AWS Cloud, DevOps, System Design
 - 🏆 **Recognitions:** Smart India Hackathon Winner- 2025 | National Startup Hackathon Winner - 2025 | Avishkar competition medalist - 2025
-- 📫 **Reach Me:** [vaibhavjadhav2908@gmail.com](mailto:vaibhavjadhav2908@gmail.com)
+
 
 ---
 
