@@ -82,15 +82,11 @@ I'm a final-year Computer Science student passionate about crafting robust softw
 - **Tech Stack:** React Native, Node.js, MongoDB
 - **Impact:** Promoting environmental awareness through interactive learning
 
----
-
 ### ⚡ FixFast
 > Electric equipment repair platform
 
 - **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 - **Feature:** Streamlined repair service booking and tracking
-
----
 
 ### 💻 Thinkers Club Platform
 > Official community platform with admin dashboard
@@ -98,22 +94,16 @@ I'm a final-year Computer Science student passionate about crafting robust softw
 - **Tech Stack:** MERN Stack, Tailwind CSS
 - **Feature:** Content management, user engagement tools
 
----
-
 ### ☁️ AWS Learning Repository
 > Daily hands-on AWS cloud notes and implementations
 
 - **Focus:** Practical cloud computing and infrastructure
-
----
 
 ### 📚 Java DSA Solutions
 > Daily Data Structures & Algorithms solutions
 
 - **Platform:** LeetCode, GeeksforGeeks
 - **Focus:** Problem-solving and algorithmic thinking
-
----
 
 ### 🌐 Portfolio Website
 > Personal portfolio showcasing projects and skills
@@ -186,11 +176,11 @@ I'm a final-year Computer Science student passionate about crafting robust softw
 
 ---
 
-## 📈 Weekly Development Breakdown
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00C2FF" alt="Profile Views" />
+</p>
 
-```text
-Java          ████████████░░░░░   60%
-JavaScript    ████████░░░░░░░░░   40%
-Python        ██████░░░░░░░░░░░   30%
-Cloud/AWS     ██████░░░░░░░░░░░   30%
-DSA           ██████████░░░░░░░   50%
+<p align="center">
+  <b>⭐ Thanks for visiting my profile ⭐</b><br>
+  <i>"Building tomorrow's solutions, today."</i>
+</p>
