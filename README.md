@@ -1,59 +1,126 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vaibhav Jadhav
+<h1 align="center">
+Hi 👋, I'm Vaibhav Jadhav
+</h1>
 
-<h3 align="center">🚀 Final Year Computer Engineering Student | Aspiring Software Engineer | AWS & Full Stack Learner</h3>
+<h3 align="center">
+Software Developer | Java | MERN Stack | AWS Cloud | React Native
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AWS+Cloud+Learner;Full+Stack+Developer;DSA+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;React+Native+Developer;Hackathon+Winner;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 Final Year Computer Engineering Student
-- ☁️ Learning AWS Cloud
-- 💻 Passionate about Full Stack Development
-- 📚 Solving DSA problems every day
-- 🚀 Building real-world projects
-- 🌱 Currently learning System Design
+🎓 Final Year Computer Science Student
+
+💻 Passionate about Software Development
+
+☁️ Learning AWS Cloud & DevOps
+
+📱 React Native Developer
+
+🚀 Full Stack MERN Developer
+
+📚 Solving Data Structures & Algorithms daily
+
+🌱 Always building projects that solve real-world problems
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,sql"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Cloud & Tools
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 Achievements
+
+🥇 Smart India Hackathon Winner
+
+🥇 National Startup Hackathon Winner
+
+🥇 Avishkar Zonal Winner
+
+🏅 Smart India Hackathon Finalist
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 VrikshMitra
+
+Gamified Environmental Education Platform built using React Native.
+
+---
+
+## ⚡ FixFast
+
+Electric Equipment Repair Platform using MERN Stack.
+
+---
+
+## 💻 Thinkers Club Platform
+
+Official Website & Community Platform with Admin Dashboard.
+
+---
+
+## ☁️ AWS Learning
+
+Daily AWS Hands-on Notes
+
+---
+
+## 📚 Java DSA
+
+Daily DSA Solutions
+
+---
+
+## 🌐 Portfolio Website
+
+Personal Portfolio
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -75,7 +142,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -89,64 +156,68 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Current Learning
 
-| Project | Description |
-|----------|-------------|
-| 🌱 VrikshaMitra | Gamified Environmental Education Platform |
-| 👨‍🏫 Faculty Appraisal System | MERN Based College Project |
-| ☁️ AWS Learning | AWS Notes + Hands-on |
-| 💻 Java DSA | LeetCode + Coding Questions |
-| 🌐 Portfolio | Personal Portfolio Website |
+🌩 AWS Cloud
 
----
+🐳 Docker
 
-# 📚 Current Goals
+⚙️ CI/CD
 
-- ✅ AWS Cloud
-- ✅ DSA
-- ✅ Full Stack Development
-- ✅ Open Source Contributions
-- ✅ System Design
+📖 System Design
+
+💻 Data Structures & Algorithms
 
 ---
 
-# 📫 Connect With Me
+# 📌 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:vaibhavjadhav2908@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+> "Code. Learn. Build. Repeat."
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
-<p align="center">
+---
 
-### ⭐ Thanks for visiting my profile! ⭐
+<div align="center">
 
-</p>
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Building today for a better tomorrow."*
+
+</div>
